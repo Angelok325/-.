@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\лаба\лаба\bin\Debug\net8.0\лаба.exe
+C:\Users\User\source\repos\лаба\лаба\bin\Debug\net8.0\лаба.deps.json
+C:\Users\User\source\repos\лаба\лаба\bin\Debug\net8.0\лаба.runtimeconfig.json
+C:\Users\User\source\repos\лаба\лаба\bin\Debug\net8.0\лаба.dll
+C:\Users\User\source\repos\лаба\лаба\bin\Debug\net8.0\лаба.pdb
+C:\Users\User\source\repos\лаба\лаба\obj\Debug\net8.0\лаба.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\лаба\лаба\obj\Debug\net8.0\лаба.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\лаба\лаба\obj\Debug\net8.0\лаба.AssemblyInfo.cs
+C:\Users\User\source\repos\лаба\лаба\obj\Debug\net8.0\лаба.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\лаба\лаба\obj\Debug\net8.0\лаба.dll
+C:\Users\User\source\repos\лаба\лаба\obj\Debug\net8.0\refint\лаба.dll
+C:\Users\User\source\repos\лаба\лаба\obj\Debug\net8.0\лаба.pdb
+C:\Users\User\source\repos\лаба\лаба\obj\Debug\net8.0\лаба.genruntimeconfig.cache
+C:\Users\User\source\repos\лаба\лаба\obj\Debug\net8.0\ref\лаба.dll
